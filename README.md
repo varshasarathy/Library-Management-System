@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212223040233
+# Name:   VARSHA SARATHI
+# Date:   15-10-2025
 
 
 # AIM:
@@ -39,9 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
-
-
+<img width="1243" height="1018" alt="image" src="https://github.com/user-attachments/assets/3d9158b8-632e-4ad3-9087-a1d1d6496b6b" />
 
 
 # CLASS DIAGRAM
@@ -59,6 +57,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1245" height="1017" alt="image" src="https://github.com/user-attachments/assets/03ef6476-39b6-4d71-a07a-8b1af2d7bf80" />
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -67,6 +67,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1247" height="1022" alt="image" src="https://github.com/user-attachments/assets/6298ebfb-bb4f-474a-9adc-3ee0239978f8" />
 
 
 # PACKAGE DIAGRAM:
@@ -97,7 +98,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+<img width="871" height="1008" alt="image" src="https://github.com/user-attachments/assets/2092925f-d5dd-4269-9c60-7ec7e7780251" />
 
 
 # SEQUENCE DIAGRAM
@@ -118,8 +119,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
-
+<img width="1232" height="1001" alt="image" src="https://github.com/user-attachments/assets/66397ea2-076b-4298-875a-419b55108c85" />
 
 
 # RESULT
